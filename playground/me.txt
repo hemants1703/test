@@ -1,5 +1,0 @@
-{{#user}}
-Name: Hemant Sharma
-Skills: HTML, CSS, JavaScript, React.js, Node.js, Express.js, jQuery, Bootstrap, EJS, SQL, MongoDB, DSA, Java, C Language.
-Email: itshemantsharma173@gmail.com
-{{/user}}
